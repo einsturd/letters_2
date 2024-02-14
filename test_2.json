@@ -1,1 +1,7 @@
 [
+  {
+    "test": "a",
+    "test_two": "b",
+    "test_three": ["a", "b", "c"]
+  }
+]
